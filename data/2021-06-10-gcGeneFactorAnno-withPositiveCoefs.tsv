@@ -1,0 +1,78 @@
+GeneSymbol	Factor	FeatureName	GeneID	GeneName	FeatureClass	avgCpm
+WNT1	Factor1/Ectoderm	WNT1	7471	Wnt family member 1	Ectoderm	7.661110521994091
+POU4F1	Factor1/Ectoderm	POU4F1	5457	POU class 4 homeobox 1	Ectoderm	5.86800788791837
+OLFM3	Factor1/Ectoderm	OLFM3	118427	olfactomedin 3	Ectoderm	7.847020117451715
+CDH9	Factor1/Ectoderm	CDH9	1007	cadherin 9	Ectoderm	8.58996062827835
+LMX1A	Factor1/Ectoderm	LMX1A	4009	LIM homeobox transcription factor 1 alpha	Ectoderm	8.473593959382098
+DMBX1	Factor1/Ectoderm	DMBX1	127343	diencephalon/mesencephalon homeobox 1	Ectoderm	9.582144651005672
+PAX3	Factor1/Ectoderm	PAX3	5077	paired box 3	Ectoderm	10.814532478977881
+MAP2	Factor1/Ectoderm	MAP2	4133	microtubule associated protein 2	Ectoderm	11.502872630495885
+TRPM8	Factor1/Ectoderm	TRPM8	79054	transient receptor potential cation channel subfamily M member 8	Ectoderm	5.923573042637925
+DRD4	Factor1/Ectoderm	DRD4	1815	dopamine receptor D4	Ectoderm	8.371779231139822
+SNAI2	Factor1/Ectoderm	SNAI2	6591	snail family transcriptional repressor 2	Mesoderm	7.078294373782537
+CABP7	Factor1/Ectoderm	CABP7	164633	calcium binding protein 7	Endoderm	4.3418863921084805
+MYO3B	Factor1/Ectoderm	MYO3B	140469	myosin IIIB	Ectoderm	3.590923535560276
+PAX6	Factor1/Ectoderm	PAX6	5080	paired box 6	Ectoderm	10.351587631493715
+PRKCA	Factor1/Ectoderm	PRKCA	5578	protein kinase C alpha	Ectoderm	9.24887105482161
+CLDN1	Factor1/Ectoderm	CLDN1	9076	claudin 1	Endoderm	6.947437452553211
+NOS2	Factor1/Ectoderm	NOS2	4843	nitric oxide synthase 2	Ectoderm	0.5233932991449457
+CDH20	Factor1/Ectoderm	CDH20	28316	cadherin 20	Endoderm	5.271828173662013
+ZBTB16	Factor1/Ectoderm	ZBTB16	7704	zinc finger and BTB domain containing 16	Ectoderm	8.852386750566398
+HOPX	Factor1/Ectoderm	HOPX	84525	HOP homeobox	Mesoderm	6.064604869572336
+CPLX2	Factor1/Ectoderm	CPLX2	10814	complexin 2	Endoderm	5.278043748152409
+EN1	Factor1/Ectoderm	EN1	2019	engrailed homeobox 1	Ectoderm	1.9670550803164504
+PLVAP	Factor1/Ectoderm	PLVAP	83483	plasmalemma vesicle associated protein	Mesoderm	6.210741623737548
+FCN3	Factor1/Ectoderm	FCN3	8547	ficolin 3	Mesoderm	2.563742096055701
+EOMES	Factor1/Ectoderm	EOMES	8320	eomesodermin	Endoderm	2.6782367389649857
+BMP10	Factor1/Ectoderm	BMP10	27302	bone morphogenetic protein 10	Mesoderm	-1.9535884604078584
+HAND1	Factor2/Mesoderm	HAND1	9421	heart and neural crest derivatives expressed 1	Mesoderm	5.578296842016787
+TBX3	Factor2/Mesoderm	TBX3	6926	T-box transcription factor 3	Mesoderm	6.326754406249811
+ESM1	Factor2/Mesoderm	ESM1	11082	endothelial cell specific molecule 1	Mesoderm	-0.6260330365203846
+HEY1	Factor2/Mesoderm	HEY1	23462	hes related family bHLH transcription factor with YRPW motif 1	Mesoderm	6.593960897956991
+GATA6	Factor2/Mesoderm	GATA6	2627	GATA binding protein 6	Endoderm	4.083343561201773
+ODAM	Factor2/Mesoderm	ODAM	54959	odontogenic, ameloblast associated	Mesoderm	0.5173968722073062
+CDX2	Factor2/Mesoderm	CDX2	1045	caudal type homeobox 2	Mesoderm	2.893042130274984
+RGS4	Factor2/Mesoderm	RGS4	5999	regulator of G protein signaling 4	Mesoderm	3.3424838144953597
+HAND2	Factor2/Mesoderm	HAND2	9464	heart and neural crest derivatives expressed 2	Mesoderm	0.1922639720017782
+NANOG	Factor2/Mesoderm	NANOG	79923	Nanog homeobox	Self-renewal	9.944267679274903
+CDH5	Factor2/Mesoderm	CDH5	1003	cadherin 5	Mesoderm	3.265116499105875
+IDO1	Factor3/Self-renewal	IDO1	3620	indoleamine 2,3-dioxygenase 1	Self-renewal	2.596349246394044
+DNMT3B	Factor3/Self-renewal	DNMT3B	1789	DNA methyltransferase 3 beta	Self-renewal	11.724110877795113
+TRIM22	Factor3/Self-renewal	TRIM22	10346	tripartite motif containing 22	Self-renewal	6.62605658846804
+LCK	Factor3/Self-renewal	LCK	3932	LCK proto-oncogene, Src family tyrosine kinase	Self-renewal	2.6120106502913476
+HHEX	Factor3/Self-renewal	HHEX	3087	hematopoietically expressed homeobox	Endoderm	3.2417132602946443
+HESX1	Factor3/Self-renewal	HESX1	8820	HESX homeobox 1	Self-renewal	6.654226412089906
+TBXT	Factor3/Self-renewal	T	6862	T-box transcription factor T	Mesendoderm	0.16186710193075537
+POU5F1	Factor3/Self-renewal	POU5F1	5460	POU class 5 homeobox 1	Self-renewal	9.148322796088138
+FGF4	Factor3/Self-renewal	FGF4	2249	fibroblast growth factor 4	Mesendoderm	-0.9953214322888516
+GDF3	Factor3/Self-renewal	GDF3	9573	growth differentiation factor 3	Mesendoderm	1.504294445051206
+FOXA1	Factor4/Endoderm	FOXA1	3169	forkhead box A1	Endoderm	4.0252808561390045
+GATA4	Factor4/Endoderm	GATA4	2626	GATA binding protein 4	Endoderm	2.735055839270551
+FOXA2	Factor4/Endoderm	FOXA2	3170	forkhead box A2	Endoderm	1.1873954760574792
+HNF1B	Factor4/Endoderm	HNF1B	6928	HNF1 homeobox B	Endoderm	0.9107768614606798
+FOXF1	Factor4/Endoderm	FOXF1	2294	forkhead box F1	Mesoderm	0.4500753323271514
+PDGFRA	Factor4/Endoderm	PDGFRA	5156	platelet derived growth factor receptor alpha	Mesoderm	6.965255016176751
+HNF4A	Factor4/Endoderm	HNF4A	3172	hepatocyte nuclear factor 4 alpha	Endoderm	1.2708674781129419
+NR5A2	Factor4/Endoderm	NR5A2	2494	nuclear receptor subfamily 5 group A member 2	Mesendoderm	1.9504089530809545
+FOXP2	Factor4/Endoderm	FOXP2	93986	forkhead box P2	Endoderm	2.680359368431753
+RXRG	Factor4/Endoderm	RXRG	6258	retinoid X receptor gamma	Endoderm	2.2782320802110636
+COLEC10	Factor4/Endoderm	COLEC10	10584	collectin subfamily member 10	Mesoderm	2.7030572949840432
+SST	Factor4/Endoderm	SST	6750	somatostatin	Endoderm	6.709143697679548
+IL6ST	Factor4/Endoderm	IL6ST	3572	interleukin 6 signal transducer	Mesoderm	7.236218885055804
+PHOX2B	Factor4/Endoderm	PHOX2B	8929	paired like homeobox 2B	Endoderm	-1.7903258613294202
+LEFTY2	Factor5/Endoderm	LEFTY2	7044	left-right determination factor 2	Endoderm	2.103335770710809
+LEFTY1	Factor5/Endoderm	LEFTY1	10637	left-right determination factor 1	Endoderm	1.903193226866813
+CD44	Factor5/Endoderm	CD44	960	CD44 molecule (Indian blood group)	Other	5.300502006287165
+NODAL	Factor5/Endoderm	NODAL	4838	nodal growth differentiation factor	Endoderm	0.8031342323721606
+CXCL5	Factor5/Endoderm	CXCL5	6374	C-X-C motif chemokine ligand 5	Self-renewal	2.9678530680285506
+NKX2-5	Factor5/Endoderm	NKX2-5	1482	NK2 homeobox 5	Mesoderm	0.9602082482022174
+PRDM1	Factor6/Endoderm	PRDM1	639	PR/SET domain 1	Endoderm	7.751204876305177
+KLF5	Factor6/Endoderm	KLF5	688	Kruppel like factor 5	Endoderm	8.207401616534414
+ABCA4	Factor6/Endoderm	ABCA4	24	ATP binding cassette subfamily A member 4	Mesoderm	7.405522431457469
+TM4SF1	Factor6/Endoderm	TM4SF1	4071	transmembrane 4 L six family member 1	Mesoderm	1.4755946877748904
+EP300	Factor7	EP300	2033	E1A binding protein p300	Controls	9.906223048035505
+JARID2	Factor7	JARID2	3720	jumonji and AT-rich interaction domain containing 2	Other	11.42411507627155
+PAPLN	Factor7	PAPLN	89932	papilin, proteoglycan like sulfated glycoprotein	Ectoderm	5.5330479121601455
+NSG2	Factor8	HMP19	51617	neuronal vesicle trafficking associated 2	Endoderm	2.8368398876269794
+COL2A1	Factor9	COL2A1	1280	collagen type II alpha 1 chain	Ectoderm	9.718060764061022
+ELAVL3	Factor10	ELAVL3	1995	ELAV like RNA binding protein 3	Endoderm	3.686800643736939
